@@ -1,8 +1,8 @@
-# Локальный сервер на Node.js
+# Local server on Node.js
 
-Примечание: для работы сервера нужно установить [Node.js](https://nodejs.org/en/).
+Note: for running that you need to install [Node.js](https://nodejs.org/en/) first.
 
-Файл __start.bat__ запускает локальный сервер по адресу http://localhost:3000/
-Все проекты должны находиться в папке __$/__, открыть проект вы можете указав название папки с проектом после адреса сервера.
+File __start.bat__ runs the server on address http://localhost:3000/
+All the projects have to be in __$/__ sirectory, you can access the project by typing its folder name after the server address.
 
 http://localhost:3000/example/
